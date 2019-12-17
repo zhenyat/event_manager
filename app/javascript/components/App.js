@@ -1,9 +1,12 @@
 import React from 'react';
+import { Route } from 'react-router-dom';
 import Editor from './Editor';
+
+import './App.css';
 
 const App = () => (
   <div>
-    <Editor />
+    <Route path="/events/:id?" component={Editor} />
   </div>
 );
 

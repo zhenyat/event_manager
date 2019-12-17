@@ -89,7 +89,7 @@ gem 'mini_racer', platforms: :ruby              # See https://github.com/rails/e
 
 #gem 'coffee-rails', '~> 4.2'      stop         # Use CoffeeScript for .coffee assets and views
 #gem 'jquery-rails'                stop         # Use jquery as the JavaScript library
-gem 'turbolinks'                                # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
+#gem 'turbolinks'                                # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'jbuilder'                                  # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 
 #gem 'redis'                                    # Use Redis adapter to run Action Cable in production
